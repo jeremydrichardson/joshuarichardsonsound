@@ -1,6 +1,7 @@
 body {
-    background-color: black;
-    color: #fff;
+    background-color: #382f2e;
+    color: #fcfcd6;
+    font-family: 'Open Sans', sans-serif;
 }
 
 main {
@@ -30,4 +31,17 @@ main {
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+h1 {
+    font-family: 'Bangers', cursive;
+    font-size: 3.5rem;
+}
+
+.card header {
+    background-color: #382f2e;
+}
+
+input, textarea {
+    color: #000;
 }
